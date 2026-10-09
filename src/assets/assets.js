@@ -101,7 +101,7 @@ export const projects = [
     tech: ["React", "Vite", "CSS", "Framer Motion"],
     icons: [FaReact, FaCode],
     demo: "#home",
-    code: "#",
+    code: "https://github.com/ayushkhatri991/Portfolio1",
   }
 ];
 
